@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Code Like a Pro</string>
-    <string name="nmedia">NMedia!</string>
+    <string name="app_name" translatable="false">Code Like a Pro</string>
+    <string name="nmedia" translatable="false">NMedia!</string>
+    <string name="hello">nmedia</string>
 </resources>
